@@ -1,7 +1,6 @@
-![GitHub tag (latest by date)](https://img.shields.io/github/v/tag/r3mad3dev/mc-resolver)
 ![GitHub followers](https://img.shields.io/github/followers/r3mad3dev?style=social)
 <br />
-[![forthebadge](https://forthebadge.com/images/badges/built-by-developers.svg)(https://github.com/r3mad3dev)
+![forthebadge](https://forthebadge.com/images/badges/built-by-developers.svg)
   <h3 align="center">MC Resolver</h3>
 
   <p align="center">
@@ -16,6 +15,8 @@
 // yourdomain.com/McResolver.php?user={username}
 // McResolver.php?user={username}
 ```
+You can find a demo here
+https://r3mad3development.xyz/demo/mc-resolver/McResolver.php?user=Puddy
 
 ##info
 This lib also uses
