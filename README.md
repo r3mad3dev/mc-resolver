@@ -1,7 +1,7 @@
 ![GitHub tag (latest by date)](https://img.shields.io/github/v/tag/r3mad3dev/mc-resolver)
 ![GitHub followers](https://img.shields.io/github/followers/r3mad3dev?style=social)
 <br />
-[![forthebadge](https://forthebadge.com/images/badges/made-with-php.svg)](https://github.com/r3mad3dev)
+[![forthebadge](https://forthebadge.com/images/badges/built-by-developers.svg)(https://github.com/r3mad3dev)
   <h3 align="center">MC Resolver</h3>
 
   <p align="center">
