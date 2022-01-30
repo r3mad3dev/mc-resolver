@@ -18,7 +18,7 @@
 You can find a demo here
 https://r3mad3development.xyz/demo/mc-resolver/McResolver.php?user=Puddy
 
-##info
+#info
 This lib also uses
 https://github.com/MineTheCube/MojangAPI
 very good but old lib.
@@ -26,4 +26,4 @@ very good but old lib.
 ## Contact
  
 
-Project Link: [https://github.com/r3mad3dev/ProxCore/](https://github.com/r3mad3dev/ProxCore/)
+Project Link: [https://github.com/r3mad3dev/mc-resolver/](https://github.com/r3mad3dev/mc-resolver/)
